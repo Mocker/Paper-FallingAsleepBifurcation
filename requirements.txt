@@ -1,0 +1,11 @@
+numpy
+scipy
+pandas
+scikit-fda
+pycatch22
+matplotlib
+seaborn
+pyarrow
+fastparquet
+mne
+h5py
